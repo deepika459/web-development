@@ -15,6 +15,12 @@
   height: 200px;
   margin: 0px 0px 15px; /*margin only in bottom*/
 }
+
+
+/*
+adding comments again to check
+
+*/
 header nav{
   display:flex;
   justify-content: flex-end;
