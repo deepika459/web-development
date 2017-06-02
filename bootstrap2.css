@@ -22,7 +22,7 @@ header {
 
 }
 .text h1,p{
-  text-align: center;
+  text-align: center;/*text in the center*/
   color: white;
 margin: 30px;
 }
