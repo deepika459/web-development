@@ -8,12 +8,24 @@ header {
 .row p{
   padding:27px 0px 0px 10px;
 }
+#headnav p{
+  text-transform:uppercase;
+  font-family:sans-serif;
+  color: black;
+}
 .jumbotron{
+  margin-bottom: 100px;
+  padding-bottom: 0px;
   background-image: url("images/b2.jpg");
+  background-attachment: fixed;
   background-size:cover;
   height: 500px;
 }
+#jumbo1{
+  margin-bottom: 0px;
+}
 .col-sm-5{
+
   background-color: black;
   opacity: 0.5;
   width: 200px;
@@ -21,8 +33,63 @@ header {
   float: left;
 
 }
-.text h1,p{
-  text-align: center;/*text in the center*/
+#text h1,p{
   color: white;
-margin: 30px;
+  text-align: center;
+}
+ /*.col-sm-8 p{
+  color: black;
+  font:sans-serif;
+}*/
+#coll{
+  background-color:rgba(234, 244, 246, 1);
+  height: 500px;
+
+}
+.ha{
+  margin-top:200px;
+  color: rgba(0, 48, 91, 1);
+}
+#colla h3{
+
+  color: #00305B;
+}
+.para{
+  color: #0F4C85
+}
+#blue{
+  background-color: rgba(0, 48, 91, 1);
+  height: 500px;
+}
+#visi{
+
+  margin-bottom: 59px;
+  text-align: center;
+  color: white;
+}
+.font_8{
+  letter-spacing: normal;
+  margin-bottom: 40px;
+  text-align: justify;
+  color: #00305B;
+  font-size: 16px;
+    /*line-height: 1.4em;*/
+    font-family: "open sans", sans-serif;
+}
+.color_11 {
+
+    color: #FFFFFF;
+
+  }
+#jumbo{
+  background-image: url("images/16.jpg");
+  margin-bottom: 0px;
+}
+#foot{
+  background-color:rgba(234, 244, 246, 1);
+  height: 500px;
+}
+#attor{
+  text-align: center;
+  color: #00305B;
 }
